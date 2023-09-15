@@ -9,6 +9,6 @@ Di Buat Oleh :
   ### Tanhks For
   - Bapak Efri Widhadbyo, S. Kom
   - Bapak Yuli Ristiyanto, S. Kom
-  - Adnan Untuk | ${nam}
+  - Adnan Untuk | ${nama}
   - Destian | Bela. P
   - aboutXiPplg1
